@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SanjayC456
-- 👀 I’m interested in python coding
-- 🌱 I’m currently learning python coding
+- 👀 I’m interested in python
+- 🌱 I’m currently learning something cool
 - 💞️ I’m looking to collaborate on new ideas
-- 📫 How to reach me mail
+- 📫 How to reach me Gmail
 
 <!---
 SanjayC456/SanjayC456 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
